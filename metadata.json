@@ -1,0 +1,5 @@
+{
+  "name": "XD Genie",
+  "description": "A magical university companion that syncs your courses, plans your study, and keeps you connected with home.",
+  "requestFramePermissions": ["camera", "microphone"]
+}
